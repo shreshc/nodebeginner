@@ -3,4 +3,4 @@
 var server = require("./server");
 console.log("i2")
 var router = require("./router");
-server.start1(router.route);
+server.start1(router.route1);
